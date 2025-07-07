@@ -5,6 +5,7 @@ A basic example of integrating **Kotlin Native Modules** into a **React Native**
 
 This setup demonstrates how to create fast, type-safe native modules in Kotlin with modern React Native architecture.
 
+#### Here's the complete bolg post, from where I learnt this, it's litreally amazing: https://dev.to/amazonappdev/a-guide-to-turbo-modules-in-react-native-5aa3 and githubrepo, from where I learnt this concept very well: https://github.com/AmazonAppDev/reactnative-turbo-module-demo .
 ---
 
 ## 🚀 Features
